@@ -113,13 +113,3 @@ FreelancerRates.days_in_budget(20000, 80, 11.0)
 ```
 
 The returned number of days should be rounded down (take the floor) to one decimal place.
-
-## Source
-
-### Created by
-
-- @angelikatyborska
-
-### Contributed to by
-
-- @neenjaw
